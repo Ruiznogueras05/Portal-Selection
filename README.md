@@ -88,5 +88,3 @@ For a detailed explanation of the project, visit the project’s documentation w
 
 This project was developed in collaboration with:
 - **Michael Hanlon**
-
-Special thanks to the faculty and staff of Cornell Tech for their guidance throughout the course.
