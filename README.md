@@ -74,6 +74,9 @@ Watch the demo of Portal Selection in action:
 For a detailed explanation of the project, visit the project’s documentation website:
 - [**Portal Selection Documentation**](https://cs5678-2024sp.github.io/p-project-g-02/)
 
+Additionally, you can read the full project report here:
+- [**Portal Selection Report**](media/Portal_Selection.pdf)
+
 ---
 
 ## Reflections and Future Enhancements
