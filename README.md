@@ -30,6 +30,11 @@ The **Portal Selection** technique offers an innovative way to interact with vir
    - Unity 2021.3.0 or later.
    - XR Interaction Toolkit for hand gesture recognition and ray casting.
    - Custom C# scripts for portal mechanics and interactions.
+  
+### Development Workflow
+The **Portal Selection VR Interface** required a multi-faceted development approach, combining Unity's robust VR capabilities with advanced scripting. The overall virtual reality interface and environment were developed in **Unity's Developer Mode**, which allowed for precise customization and integration of 3D models, gestures, and interactive elements.
+
+To achieve the sophisticated logic and interactivity behind the portal manipulation, the **C# scripts** were written and refined using **JetBrains Rider**, an IDE optimized for .NET development. This workflow ensured a streamlined coding experience with advanced debugging tools, seamless version control, and deep integration with Unity. By leveraging Unity for design and Rider for script development, the team created an intuitive and responsive system for portal placement and object manipulation.
 
 ### Portal Mechanics
 - **Portal Placement**: Uses ray casting to dynamically adjust the length and orientation of the ray based on hand position.
