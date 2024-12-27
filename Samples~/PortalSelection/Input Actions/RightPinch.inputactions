@@ -1,0 +1,45 @@
+{
+    "name": "RightPinch",
+    "maps": [
+        {
+            "name": "Hand Actions",
+            "id": "c0aaad5a-e68f-4762-a0c2-4552ed8e9222",
+            "actions": [
+                {
+                    "name": "RightPinch",
+                    "type": "Button",
+                    "id": "21c74dbf-8862-48f5-adc1-748e066ba354",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "38d93745-ffe9-4b27-ac52-45505eb2af08",
+                    "path": "<XRSimulatedController>{RightHand}/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightPinch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c49b86d5-2da9-47d8-be56-e872019c3145",
+                    "path": "<MetaAimHand>{RightHand}/pinchStrengthIndex",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightPinch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

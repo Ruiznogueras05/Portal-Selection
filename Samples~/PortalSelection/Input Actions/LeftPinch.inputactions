@@ -1,0 +1,45 @@
+{
+    "name": "LeftPinch",
+    "maps": [
+        {
+            "name": "Hand Actions",
+            "id": "e8f4cfc0-40dc-481b-8dd8-212893308ec8",
+            "actions": [
+                {
+                    "name": "LeftPinch",
+                    "type": "Button",
+                    "id": "09e4973e-94c4-41f2-97c5-d198519bf5b4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "09692808-b301-4b39-b46a-485d78af88c5",
+                    "path": "<XRSimulatedController>{LeftHand}/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftPinch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9badea3d-e95e-486c-b529-82ee4f33340a",
+                    "path": "<MetaAimHand>{LeftHand}/pinchStrengthIndex",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftPinch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

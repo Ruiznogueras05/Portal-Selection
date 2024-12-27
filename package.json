@@ -1,0 +1,31 @@
+{
+	"name": "cs5678_2024sp.p_project.g02",
+	"version": "1.0.0",
+	"displayName": "cs5678_2024sp.p_project.g02",
+	"description": "Implementation and demo scene of the Portal Selection technique.",
+	"unity": "2022.3",
+	"unityRelease": "7f1",
+	"documentationUrl": "https://cs5678-2024sp.github.io/p-project-g-02",
+	"changelogUrl": "https://cs5678-2024sp.github.io/p-project-g-02",
+	"licensesUrl": "https://cs5678-2024sp.github.io/p-project-g-02",
+	"dependencies": {
+		"com.unity.inputsystem": "1.6.3",
+		"com.unity.xr.interaction.toolkit": "2.4.3"
+	},
+	"keywords": [
+		"XRC",
+		"XR Collaboratory"
+	],
+	"author": {
+		"name": "XR Collaboratory"
+	},
+
+	"samples": [
+		{
+			"displayName": "Portal Selection",
+			"description": "Contains sample scene, materials, prefabs, meshes, input actions, and shaders for the Portal Selection implementation.",
+			"path": "Samples~/PortalSelection"
+		}
+
+	]
+}
